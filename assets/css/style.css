@@ -106,6 +106,8 @@ a:hover { text-underline-position: below;}
 {
     margin-bottom: 10px;
     text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
 }
 /*Refactored css to be more dry*/
 
