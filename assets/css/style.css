@@ -109,7 +109,7 @@ a:hover { text-underline-position: below;}
     border: 2px solid black;
     border-radius: 5px;
 }
-/*Refactored css to be more dry*/
+/* Refactored css to be more dry and added a borders to make page more user user-friendly */
 
 .benefit-lead img,
 .benefit-brand img ,
@@ -120,7 +120,7 @@ a:hover { text-underline-position: below;}
     max-width: 150px;
 }
 
-/*Refactored css to be more dry*/
+/* Refactored css to be more dry */
 
 .search-engine-optimization,
 .online-reputation-management,
@@ -135,7 +135,7 @@ a:hover { text-underline-position: below;}
     color: #ffffff;
 }
 
-/* Refactored css to be more dry*/
+/* Refactored css to be more dry */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img
@@ -143,9 +143,7 @@ a:hover { text-underline-position: below;}
     max-height: 200px;
 }
 
-/* 
-Refactored css to be more dry
-*/
+/* Refactored css to be more dry */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2
