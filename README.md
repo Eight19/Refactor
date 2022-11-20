@@ -1,10 +1,10 @@
 # Seo-Refactor
 
-# Accessibility Features Update
+## Accessibility Features Update
  
 * Refactored the marketing agency's existing website to make it more accessible.
 
-## Acceptance Criteria Met
+### Acceptance Criteria Met
 
 * When the source code is viewed, semantic HTML elements are displayed.
 * HTML elements are structured independent of styling and positioning.
@@ -12,7 +12,7 @@
 * Heading attributes are in sequential order.
 * There is a descriptive title.
 
-## Useful Tip
+#### Useful Tip
 
 * View site for recent update 
 
