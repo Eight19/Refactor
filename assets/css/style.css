@@ -150,6 +150,7 @@ Refactored css to be more dry
 {
     margin-bottom: 20px;
     font-size: 36px;
+    text-decoration: underline;
 }
 
 .footer {
