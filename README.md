@@ -2,7 +2,7 @@
 
 # Accessibility Features Update
  
-* Refactor the marketing agency's existing website to make it more accessible.
+* Refactored the marketing agency's existing website to make it more accessible.
 
 ## Acceptance Criteria Met
 
@@ -12,8 +12,7 @@
 * Heading attributes are in sequential order.
 * There is a descriptive title.
 
-## Useful Tips
+## Useful Tip
 
-* Most recent updates 
-* Seo-Refactor image 1.png
-* Seo-Refactor image 2.png
+* View site for recent update 
+
