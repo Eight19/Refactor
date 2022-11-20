@@ -1,14 +1,19 @@
-# seo-refactor
+# Seo-Refactor
+
 # Accessibility Features Update
+ 
+* Refactor the marketing agency's existing website to make it more accessible.
 
-* Per scope of work, client requested an update to the functionality of their web application to become more accessible.
+## Acceptance Criteria Met
 
-## Acceptance Criteria
+* When the source code is viewed, semantic HTML elements are displayed.
+* HTML elements are structured independent of styling and positioning.
+* When image elements are viewed, alt attributes are accessible.
+* Heading attributes are in sequential order.
+* There is a descriptive title.
 
-* It is accomplished when the source code is viewed, semantic HTML elements are displayed.
-* It is accomplished when the HTML elements are structured independent of styling and positioning.
-* It is accomplished when image elements are viewed, alt attributes are accessible.
-* It is accomplished when heading attributes are in sequential order.
-* It is accomplished when there is a concise, descriptive title.
+## Useful Tips
 
-## 
+* Most recent updates 
+* Seo-Refactor image 1.png
+* Seo-Refactor image 2.png
