@@ -1,16 +1,11 @@
 # Seo-Refactor
 
-## Accessibility Features Update
+## Directions:  Review website https://eight19.github.io/seo-refactor/ for updated accessibility features 
  
-* Refactored the marketing agency's existing website to make it more accessible.
+## The existing website has been refactored to make the marketing of the website more accessible.
 
-### Acceptance Criteria Met
+## Preview
 
-* When the source code is viewed, semantic HTML elements are displayed.
-* HTML elements are structured independent of styling and positioning.
-* When image elements are viewed, alt attributes are accessible.
-* Heading attributes are in sequential order.
-* There is a descriptive title.
 
 #### Useful Tip
 
